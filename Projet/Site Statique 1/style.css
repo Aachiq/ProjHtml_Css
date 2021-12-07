@@ -1,0 +1,176 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background: beige;
+}
+header{
+     text-align: center;
+     font-size: 100%;
+     height: 60px;
+     background-color: rgb(42, 99, 165);
+     overflow: hidden; 
+     padding: 15px;
+ }
+ .logo{
+     color: white;
+     float: left;
+     background: rgb(90, 89, 89);
+     border-radius: 100%;
+     font-size: 40px;
+ }
+ ul{
+     float: right;
+     list-style: none; 
+ }
+ li{
+     float: left;
+     font-size: 23px;
+     padding:20px;
+ }
+ a{  
+     color: white;
+     text-decoration: none;
+     
+ }
+ .le:hover{
+     background-color: black;
+ }
+ .content{
+    background-image: url("img1.jpg");
+    height: 600px;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+}
+.c1{
+    padding: 150px;
+}
+.a{
+    font-size: 55px;
+    color: white;
+    padding: 20px;
+}
+.p1{
+    font-size: 2 0px;
+    padding: 20px;
+    padding-bottom: 30px;
+    color: white;
+}
+.Plus{
+    color: white;
+    background-color: red;
+    border: solid red;
+    border-radius: 100%;
+    padding: 10px;
+}
+.img2{
+    width: 30%;
+    height: 500px;
+    background-image: url("img2.jpg");
+    background-attachment: fixed;
+    float: left;
+}
+.des{
+    text-align: center;
+    background-color: beige;
+    height: 500px;
+    width: 70%;
+    float: right;
+    
+}
+.b{
+   
+    padding: 30px;
+    font-size: 30px;
+    
+}
+.p2{
+   padding: 30px;
+}
+.primary-text{
+    color: rgb(68, 0, 255);
+    font-style: oblique;
+    text-decoration: underline;
+}
+.ligne1{
+    height: 5px;
+    width:30px;
+    background: rgb(42, 50, 165);
+    margin: 0 auto;
+}
+.c{
+    text-align: center;
+}
+.ligne2{
+    height: 5px;
+    width:30px;
+    background: rgb(42, 50, 165);;
+    margin: 0 auto;
+}
+#s2{
+    height: 600px;
+    width: 100%;
+}
+
+.d1{
+float: left;
+width: 29%;
+background: rgb(185, 180, 180);
+padding: 20px;
+}
+.d1:hover{
+    background: white;
+}
+h3{
+    padding: 20px;
+    color: rgb(50, 42, 165);
+    font-size: 25px;
+}
+.d{
+    text-align: center;
+}
+.mark{
+    color: rgb(42, 50, 165);;
+    font-style: oblique;
+    text-decoration: underline;
+}
+.ligne3{
+    height: 5px;
+    width:30px;
+    background: rgb(42, 50, 165);
+    margin: 0 auto;
+}
+.btn{
+    padding:10px;
+    background: red;
+    border-radius: 100%;
+    color: white;
+}
+form{
+    width: 40%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+footer {
+    height: 50px;
+    background: rgb(19, 38, 146);
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
